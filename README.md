@@ -1,7 +1,43 @@
 # jobINO
 <h2>Dependencies </h2>
+
+ <a href="https://www.npmjs.com/package/body-parser">body-parser</a>
+    <br/>
+   <a href="https://www.npmjs.com/package/jsonwebtoken">jsonwebtoken</a>
+   <br/>
+   <a href="https://www.npmjs.com/package/bcryptjs">bcryptjs</a>
+   <br/>
+   <a href="https://www.npmjs.com/package/classnames">classnames</a>
+   <br/>
+  <a href="https://www.npmjs.com/package/concurrently">concurrently</a>
+   <br/>
+  <a href="https://www.npmjs.com/package/express">express</a>
+   <br/>
+  <a href="https://www.npmjs.com/package/moment">moment</a>
+   <br/>
+  <a href="https://www.npmjs.com/package/mongoose">mongoose</a>
+   <br/>
+  <a href="https://www.npmjs.com/package/passport">passport</a>
+   <br/>
+  <a href="https://www.npmjs.com/package/passport-jwt">passport-jwt</a>
+   <br/>
+  <a href="https://www.npmjs.com/package/react-moment">react-moment</a>
+   <br/>
+    <a href="https://www.npmjs.com/package/react-particles-js">react-particles-js</a>
+   <br/>
+   <br/> 
+   <a href="https://www.npmjs.com/package/passport">passport</a>
+   <br/>
+   <a href="https://www.npmjs.com/package/passport-jwt">passport-jwt</a>
+   <br/>
+    <a href="https://www.npmjs.com/package/validator">validator</a>
+
+
 <br/>
+
 <h2>dev-Dependencies </h2>
+
+<a href="https://www.npmjs.com/package/nodemon">nodemon</a>
 <br/>
 <h2>Image and icon Sources </h2>
 <a href="https://unsplash.com" >unsplash</a>
