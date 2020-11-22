@@ -1,15 +1,13 @@
-# jobino
-
-
+# jobINO
+<h2>Dependencies </h2>
+<br/>
+<h2>dev-Dependencies </h2>
+<br/>
 <h2>Image and icon Sources </h2>
-
 <a href="https://unsplash.com" >unsplash</a>
 <br/>
 <a href="https://icons8.com" >icons8</a>
-
 <h2>Color Pallet </h2>
-I've used https://colorhunt.co , https://www.color-hex.com and this color pallet 
-
 I've used <a href="https://colorhunt.co" >colorhunt</a> , <a href="https://www.color-hex.com" >color-hex</a> and this color pallet 
 <br/>
 - ![#120078](https://via.placeholder.com/15/120078/000000?text=+) `#120078`
