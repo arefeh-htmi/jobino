@@ -1,36 +1,47 @@
 # jobINO
 <h2>Dependencies </h2>
-
+  <a href="https://www.npmjs.com/package/express">express</a>
+   <br/>
+  <a href="https://www.npmjs.com/package/mongoose">mongoose</a>
+   <br/> 
+    <a href="https://www.npmjs.com/package/moment">moment</a>
+   <br/>
  <a href="https://www.npmjs.com/package/body-parser">body-parser</a>
     <br/>
    <a href="https://www.npmjs.com/package/jsonwebtoken">jsonwebtoken</a>
    <br/>
+   <a href="https://www.npmjs.com/package/passport">passport</a>
+   <br/>
+   <a href="https://www.npmjs.com/package/passport-jwt">passport-jwt</a> 
+   <br/>
+     <a href="https://www.npmjs.com/package/jwt-decode">jwt-decode</a>
+   <br/> 
+    <a href="https://www.npmjs.com/package/validator">validator</a>
+       <br/>
+      <a href="https://www.npmjs.com/package/concurrently">concurrently</a>
+ <br/>
    <a href="https://www.npmjs.com/package/bcryptjs">bcryptjs</a>
    <br/>
    <a href="https://www.npmjs.com/package/classnames">classnames</a>
    <br/>
-  <a href="https://www.npmjs.com/package/concurrently">concurrently</a>
-   <br/>
-  <a href="https://www.npmjs.com/package/express">express</a>
-   <br/>
-  <a href="https://www.npmjs.com/package/moment">moment</a>
-   <br/>
-  <a href="https://www.npmjs.com/package/mongoose">mongoose</a>
-   <br/>
-  <a href="https://www.npmjs.com/package/passport">passport</a>
-   <br/>
-  <a href="https://www.npmjs.com/package/passport-jwt">passport-jwt</a>
-   <br/>
-  <a href="https://www.npmjs.com/package/react-moment">react-moment</a>
-   <br/>
-    <a href="https://www.npmjs.com/package/react-particles-js">react-particles-js</a>
-   <br/>
+   <a href="https://www.npmjs.com/package/react">react</a>
    <br/> 
-   <a href="https://www.npmjs.com/package/passport">passport</a>
+   <a href="https://www.npmjs.com/package/react-dom">react-dom</a>
    <br/>
-   <a href="https://www.npmjs.com/package/passport-jwt">passport-jwt</a>
+   <a href="https://www.npmjs.com/package/react-redux">react-redux</a>
    <br/>
-    <a href="https://www.npmjs.com/package/validator">validator</a>
+   <a href="https://www.npmjs.com/package/react-router-dom">react-router-dom</a>
+   <br/>
+  <a href="https://www.npmjs.com/package/react-scripts">react-scripts</a>
+   <br/>
+     <a href="https://www.npmjs.com/package/redux">redux</a>
+   <br/>
+     <a href="https://www.npmjs.com/package/redux-thunk">redux-thunk</a>
+   <br/>
+       <a href="https://www.npmjs.com/package/react-particles-js">react-particles-js</a>
+   <br/>
+     <a href="https://www.npmjs.com/package/react-moment">react-moment</a>
+   <br/>
 
 
 <br/>
