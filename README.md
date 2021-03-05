@@ -1,7 +1,7 @@
 # jobINO
 
-This sample website which is made using MERN-stack connects recruiters and jobseekers.
-Jobseekers can make profiles and employers can post jobs, look for jobseekers based on their experience, education, skills and location.
+This website is made using MERN-stack connects recruiters and jobseekers.
+Jobseekers can make profiles and employers can post jobs, look for job seekers based on their experience, education, skills, and location.
 
 <h2>Color Pallet </h2>
 I've used <a href="https://colorhunt.co" >colorhunt</a> , <a href="https://www.color-hex.com" >color-hex</a> and <a href="https://colorhunt.co/palette/220041" >this</a> color pallet 
