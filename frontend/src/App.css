@@ -1,0 +1,74 @@
+.home {
+  position: relative;
+  height: 100vh;
+  margin-top: -24px;
+  margin-bottom: -50px;
+}
+
+.landing-inner {
+  padding-top: 80px;
+}
+
+.dark-overlay {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("./back.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  z-index: 98;
+}
+.dark-overlay * {
+  z-index: 100;
+}
+.dark-overlay::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 99;
+
+  background: #114357; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to left,
+    #fee175,
+    #413293
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to left,
+    #fee175,
+    #413293
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  opacity: 0.5;
+}
+h2 {
+  color: black;
+}
+.logo{
+  background-image: url(./icon-64.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 80px ;
+  height: 30px ;
+}
+.navbar a.navbar-brand{
+  color: #fee175;
+  transition: 150ms;
+}
+
+.navbar a.navbar-brand:hover{
+  color: #fd3a69;
+}
+.navbar .navbar-nav{
+  margin: 0 40px ;
+}
